@@ -43,17 +43,15 @@ Seeking an entry-level role in Data Science, Python Development, or Application 
 - Built machine learning models (Random Forest, SVM) with 83.7% accuracy.  
 - Conducted feature selection, preprocessing, and visualization using Matplotlib.  
 - Managed the entire project lifecycle independently from data collection to deployment.  
-**Tools:** Python, Pandas, NumPy, Matplotlib, Jupyter Notebook  
-
----
+**Tools:** Python, Pandas, NumPy, Matplotlib, Jupyter Notebook
+  ---
 
 ### Grocery Management System with Chatbot – 2024
 - Developed a chatbot-integrated grocery management system for inventory, billing, and order tracking.  
 - Connected Python to MySQL for authentication and CRUD operations.  
 - Enabled natural language product search and order queries.  
-**Tools:** Python, MySQL  
-
----
+**Tools:** Python, MySQL
+  ---
 
 ### Payroll Management System – 2022
 - Built a terminal-based payroll management system for salary processing and attendance tracking.  
