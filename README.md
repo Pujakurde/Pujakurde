@@ -64,15 +64,6 @@ Seeking an entry-level role in Data Science, Python Development, or Application 
 ---
 
 ## Experience
-
-### Python Developer Intern – Anvistar ITS Pvt. Ltd.  
-July 2025 – August 2025  
-- Contributed to Python-based automation solutions for data handling and optimization.  
-- Completed assigned coding tasks, implemented efficient solutions, and improved code quality through debugging.  
-**Tools:** Python  
-
----
-
 ### GUI Creator Intern – A2C Automotive Pvt. Ltd.  
 August 2025 – Present  
 - Designed and developed interactive GUI applications using Tkinter for automotive data management and process automation.  
@@ -80,7 +71,13 @@ August 2025 – Present
 - Integrated backend Python logic with GUI for real-time data management.  
 - Ensured clean, maintainable, and scalable code for long-term usability.  
 **Role:** GUI Creator Intern  
-**Tools:** Python, Tkinter  
+**Tools:** Python, Tkinter
+  ---
+### Python Developer Intern – Anvistar ITS Pvt. Ltd.  
+July 2025 – August 2025  
+- Contributed to Python-based automation solutions for data handling and optimization.  
+- Completed assigned coding tasks, implemented efficient solutions, and improved code quality through debugging.  
+**Tools:** Python  
 
 ---
 
