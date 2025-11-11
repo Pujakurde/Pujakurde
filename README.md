@@ -1,4 +1,4 @@
-# Hello It's Puja Kurde
+# Hello It's Puja Kurde :)
 
 LinkedIn: [linkedin.com/in/puja-kurde](https://linkedin.com/in/puja-kurde) 
 
@@ -78,9 +78,7 @@ July 2025 – August 2025
 - Contributed to Python-based automation solutions for data handling and optimization.  
 - Completed assigned coding tasks, implemented efficient solutions, and improved code quality through debugging.  
 **Tools:** Python  
-
----
-
+  ---
 ### Virtual Internship – Data Analyst Role at Deloitte (Forage Platform)  
 July 2025  
 - Simulated real-world data analysis, visualization, and client reporting tasks.  
