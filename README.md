@@ -74,7 +74,8 @@ August 2025 – Present
 ### Python Developer Intern – Anvistar ITS Pvt. Ltd.  
 July 2025 – August 2025  
 - Contributed to Python-based automation solutions for data handling and optimization.  
-- Completed assigned coding tasks, implemented efficient solutions, and improved code quality through debugging.  
+- Completed assigned coding tasks, implemented efficient solutions, and improved code quality through debugging.
+-  
 **Tools:** Python  
   ---
 ### Virtual Internship – Data Analyst Role at Deloitte (Forage Platform)  
