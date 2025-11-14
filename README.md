@@ -1,102 +1,101 @@
-# Hello It's Puja Kurde :)
+# **Puja Kurde**
+Final-Year B.Tech Data Science Student  
+Aspiring Data Scientist | Python Developer | ML Enthusiast  
 
-LinkedIn: [linkedin.com/in/puja-kurde](https://linkedin.com/in/puja-kurde) 
+**LinkedIn:** https://linkedin.com/in/puja-kurde  
 
 ---
 
-## Professional Summary
+## **Professional Summary**
 Final-year B.Tech Data Science student skilled in Python, SQL, Data Analytics, Machine Learning, and GUI Development.  
-Experienced in building data-driven projects, designing interactive applications, and applying insights to solve business problems.  
-Seeking an entry-level role in Data Science, Python Development, or Application Development.
+Experienced in building data-driven applications, predictive models, and analytical dashboards.  
+Seeking an entry-level role in **Data Science**, **Python Development**, or **Application Development**.
 
 ---
 
-## Technologies
+## **Technologies & Skills**
 
-**Programming Languages:** Python, SQL  
+**Programming:** Python, SQL  
 **Data Analysis & Visualization:** NumPy, Pandas, Matplotlib, Power BI, Tableau  
+**Machine Learning:** Feature Engineering, Preprocessing, Model Evaluation  
 **GUI Development:** Tkinter  
 **Databases:** MySQL, MySQL Workbench  
-**Machine Learning:** Feature Engineering, Model Evaluation  
-**Tools & Platforms:** Jupyter Notebook, Microsoft Excel  
+**Tools:** Jupyter Notebook, Excel  
 **Version Control:** Git, GitHub  
 
 ---
 
-## Education
+## **Education**
 
-**Shivaji University** — B.Tech in Computer Science Engineering (Data Science)  
-2022 – 2026 | CGPA: 8.0  
+**B.Tech — CSE (Data Science)**  
+Shivaji University | 2022–2026  
+**CGPA:** 8.0  
 
-**Priyadarshini Jr. College (CBSE)**  
-2021 – 2022 | Percentage: 76.4  
+**Priyadarshini Jr. College (CBSE)** | 2021–2022  
+**Percentage:** 76.4  
 
-**Beacon High School (CBSE)**  
-2019 – 2020 | Percentage: 77.4  
+**Beacon High School (CBSE)** | 2019–2020  
+**Percentage:** 77.4  
 
 ---
 
-## Projects
+## **Projects**
 
-### Student Depression Analysis (Machine Learning) – 2025
-- Analyzed students’ mental health data to predict depression risk.  
-- Built machine learning models (Random Forest, SVM) with 83.7% accuracy.  
-- Conducted feature selection, preprocessing, and visualization using Matplotlib.  
-- Managed the entire project lifecycle independently from data collection to deployment.  
-**Tools:** Python, Pandas, NumPy, Matplotlib, Jupyter Notebook
-  ---
+### **Student Depression Analysis (Machine Learning) — 2025**
+- Predicted depression risk using Random Forest & SVM (83.7% accuracy).  
+- Performed data preprocessing, EDA, and feature selection.  
+- Built end-to-end ML workflow with visualizations.  
+**Tools:** Python, Pandas, NumPy, Matplotlib
 
-### Grocery Management System with Chatbot – 2024
-- Developed a chatbot-integrated grocery management system for inventory, billing, and order tracking.  
-- Connected Python to MySQL for authentication and CRUD operations.  
-- Enabled natural language product search and order queries.  
+---
+
+### **Grocery Management System with Chatbot — 2024**
+- Grocery inventory + chatbot-based product search system.  
+- Integrated Python with MySQL for CRUD operations.  
+- Added user-friendly order and billing management.  
 **Tools:** Python, MySQL
-  ---
 
-### Payroll Management System – 2022
-- Built a terminal-based payroll management system for salary processing and attendance tracking.  
-- Designed database connectivity with MySQL and implemented CRUD operations.  
-- Added dynamic salary calculations and monthly report generation.  
+---
+
+### **Payroll Management System — 2022**
+- Salary processing and attendance-tracking application.  
+- Implemented MySQL-based CRUD operations and reporting.  
 **Tools:** Python, MySQL  
 
 ---
 
-## Experience
-### GUI Creator Intern – A2C Automotive Pvt. Ltd.  
-August 2025 – Present  
-- Designed and developed interactive GUI applications using Tkinter for automotive data management and process automation.  
-- Created user-friendly interfaces for data entry, processing, and visualization.  
-- Integrated backend Python logic with GUI for real-time data management.  
-- Ensured clean, maintainable, and scalable code for long-term usability.  
-**Role:** GUI Creator Intern  
-**Tools:** Python, Tkinter
-  ---
-### Python Developer Intern – Anvistar ITS Pvt. Ltd.  
-July 2025 – August 2025  
-- Contributed to Python-based automation solutions for data handling and optimization.  
-- Completed assigned coding tasks, implemented efficient solutions, and improved code quality through debugging.
--  
-**Tools:** Python  
-  ---
-### Virtual Internship – Data Analyst Role at Deloitte (Forage Platform)  
-July 2025  
-- Simulated real-world data analysis, visualization, and client reporting tasks.  
-- Cleaned and transformed datasets in Excel and designed interactive Tableau dashboards.  
-- Presented insights effectively to simulate client-facing consulting projects.  
-**Tools:** Microsoft Excel, Tableau  
+## **Experience**
+
+### **GUI Creator Intern — A2C Automotive Pvt. Ltd.**  
+Aug 2025 – Present  
+- Created Tkinter-based GUIs for business process automation.  
+- Integrated backend logic with clean and user-friendly interfaces.  
+- Built scalable and maintainable code structures.
 
 ---
 
-## Certifications
-
-- Python for Data Science – NPTEL (Jan 2024 – Feb 2024)  
-- Virtual Internship, Deloitte Data Analytics Job Simulation – Forage (2025)  
-- Power BI Workshop – Office Master (2025)  
-- Machine Learning Certifications – LinkedIn Learning (2025)
+### **Python Developer Intern — Anvistar ITS Pvt. Ltd.**  
+Jul 2025 – Aug 2025  
+- Developed Python scripts for automation tasks.  
+- Improved code quality, debugging, and data workflows.
 
 ---
 
-## Personal Statement
-A dedicated learner who combines analytical thinking with creative problem-solving.  
-Focused on transforming data into actionable insights and developing efficient, user-friendly applications.
+### **Data Analyst Virtual Internship — Deloitte (Forage)**  
+Jul 2025  
+- Performed data cleaning and visualization in Excel & Tableau.  
+- Delivered consulting-style insight reports.
 
+---
+
+## **Certifications**
+- Python for Data Science — NPTEL  
+- Deloitte Data Analytics Job Simulation — Forage  
+- Power BI Workshop — Office Master  
+- Machine Learning — LinkedIn Learning  
+
+---
+
+## **Personal Statement**
+A motivated and detail-oriented learner passionate about data, problem-solving, and creating impactful applications.  
+Focused on turning raw data into insights and developing efficient, user-focused solutions.
