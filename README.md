@@ -1,101 +1,120 @@
-# **Puja Kurde**
-Final-Year B.Tech Data Science Student  
-Aspiring Data Scientist | Python Developer | ML Enthusiast  
+# 👋 Hi, I'm Puja Kurde  
+🎓 Final-Year B.Tech Student | 📊 Data Science | 🐍 Python Developer | 🤖 ML & CV Enthusiast  
 
-**LinkedIn:** https://linkedin.com/in/puja-kurde  
-
----
-
-## **Professional Summary**
-Final-year B.Tech Data Science student skilled in Python, SQL, Data Analytics, Machine Learning, and GUI Development.  
-Experienced in building data-driven applications, predictive models, and analytical dashboards.  
-Seeking an entry-level role in **Data Science**, **Python Development**, or **Application Development**.
+Welcome to my GitHub! I love building intelligent systems, data-driven applications, and clean Python-based tools.  
+I enjoy solving real-world problems using ML, Data Analytics, Computer Vision, and automation.
 
 ---
 
-## **Technologies & Skills**
-
-**Programming:** Python, SQL  
-**Data Analysis & Visualization:** NumPy, Pandas, Matplotlib, Power BI, Tableau  
-**Machine Learning:** Feature Engineering, Preprocessing, Model Evaluation  
-**GUI Development:** Tkinter  
-**Databases:** MySQL, MySQL Workbench  
-**Tools:** Jupyter Notebook, Excel  
-**Version Control:** Git, GitHub  
+## 🚀 About Me  
+- 🎓 Final-year B.Tech CSE (Data Science) – Shivaji University  
+- 💡 Passionate about Data Science, Machine Learning, and Python Development  
+- 🧠 Interested in Computer Vision, Deep Learning, and Analytical Dashboards  
+- 👩‍💻 Currently working as **GUI Creator Intern at A2C Automotive Pvt. Ltd.**  
+- 🔍 Looking for full-time roles: **Data Analyst | Data Scientist | Python Developer**
 
 ---
 
-## **Education**
+## 🛠️ Technologies & Skills  
 
-**B.Tech — CSE (Data Science)**  
-Shivaji University | 2022–2026  
-**CGPA:** 8.0  
+### **Programming**
+- Python, SQL
 
-**Priyadarshini Jr. College (CBSE)** | 2021–2022  
-**Percentage:** 76.4  
+### **Data Analysis & Visualization**
+- NumPy, Pandas, Matplotlib  
+- Power BI, Tableau  
+- Excel (Pivot Tables, VLOOKUP, Dashboards)
 
-**Beacon High School (CBSE)** | 2019–2020  
-**Percentage:** 77.4  
+### **Machine Learning**
+- Feature Engineering  
+- Data Preprocessing  
+- Model Evaluation  
+- Classification & Regression
 
----
+### **Computer Vision**
+- OpenCV  
+- Image Processing  
+- CNN Models (for Face Recognition & Sign Detection)
 
-## **Projects**
+### **GUI Development**
+- Tkinter (Custom Standalone Applications)
 
-### **Student Depression Analysis (Machine Learning) — 2025**
-- Predicted depression risk using Random Forest & SVM (83.7% accuracy).  
-- Performed data preprocessing, EDA, and feature selection.  
-- Built end-to-end ML workflow with visualizations.  
-**Tools:** Python, Pandas, NumPy, Matplotlib
+### **Databases**
+- MySQL, MySQL Workbench  
 
----
-
-### **Grocery Management System with Chatbot — 2024**
-- Grocery inventory + chatbot-based product search system.  
-- Integrated Python with MySQL for CRUD operations.  
-- Added user-friendly order and billing management.  
-**Tools:** Python, MySQL
-
----
-
-### **Payroll Management System — 2022**
-- Salary processing and attendance-tracking application.  
-- Implemented MySQL-based CRUD operations and reporting.  
-**Tools:** Python, MySQL  
+### **Tools**
+- Jupyter Notebook, VS Code, Excel  
+- Git & GitHub
 
 ---
 
-## **Experience**
+## 📂 Featured Projects  
 
-### **GUI Creator Intern — A2C Automotive Pvt. Ltd.**  
-Aug 2025 – Present  
-- Created Tkinter-based GUIs for business process automation.  
-- Integrated backend logic with clean and user-friendly interfaces.  
-- Built scalable and maintainable code structures.
-
----
-
-### **Python Developer Intern — Anvistar ITS Pvt. Ltd.**  
-Jul 2025 – Aug 2025  
-- Developed Python scripts for automation tasks.  
-- Improved code quality, debugging, and data workflows.
+### 🔹 **Face Authentication System (Ongoing)**
+A real-time face authentication system using **Haar Cascade**, **Deep Learning**, and **OpenCV**.  
+- Custom dataset collection  
+- Real-time prediction system  
+- Secure authentication pipeline  
+**Tech:** Python, OpenCV, CNN, NumPy, Pandas  
 
 ---
 
-### **Data Analyst Virtual Internship — Deloitte (Forage)**  
-Jul 2025  
-- Performed data cleaning and visualization in Excel & Tableau.  
-- Delivered consulting-style insight reports.
+### 🔹 **Sign-to-Text Detection System**
+Deep-learning model converting real-time hand signs into text.  
+- CNN-based gesture recognition  
+- Live video classification  
+- GUI text output  
+**Tech:** Python, TensorFlow/Keras, OpenCV  
 
 ---
 
-## **Certifications**
-- Python for Data Science — NPTEL  
-- Deloitte Data Analytics Job Simulation — Forage  
-- Power BI Workshop — Office Master  
-- Machine Learning — LinkedIn Learning  
+### 🔹 **Student Depression Analysis**
+Machine learning model predicting depression levels among students with **83.7% accuracy**.  
+- EDA, preprocessing  
+- Feature selection  
+- Random Forest, SVM  
+**Tech:** Python, Pandas, NumPy, Matplotlib  
 
 ---
 
-## **Personal Statement**
-A motivated and detail-oriented learner passionate about data, problem-solving, and creating impactful applications.  
-Focused on turning raw data into insights and developing efficient, user-focused solutions.
+## 💼 Experience  
+
+### **A2C Automotive Pvt. Ltd. — GUI Creator Intern**  
+*Aug 2025 – Present*  
+- Built Tkinter-based GUI applications  
+- Worked on ML and Computer Vision modules  
+- Automated workflows using Python
+
+### **Anvistar ITS Pvt. Ltd. — Python Developer Intern**  
+*Jul 2025 – Aug 2025*  
+- Python automation scripting  
+- Debugging & performance improvements  
+
+### **Deloitte (Forage) — Data Analyst Virtual Intern**  
+*Jul 2025*  
+- Data cleaning & visualization  
+- Dashboard reporting with Tableau  
+
+---
+
+## 📜 Certifications  
+- Python for Data Science – NPTEL  
+- Deloitte Data Analytics Job Simulation – Forage  
+- Power BI Workshop – Office Master  
+- Machine Learning – LinkedIn Learning  
+
+---
+
+## 🌱 Personal Statement  
+A motivated and detail-oriented learner passionate about **data, analytics, automation, and AI-driven solutions**.  
+I aim to build tools and models that make real-world tasks easier, faster, and smarter.
+
+---
+
+## 📫 Connect With Me  
+🔗 **LinkedIn:** https://linkedin.com/in/puja-kurde  
+🐙 **GitHub:** https://github.com/Pujakurde  
+📧 **Email:** pujakurde@gmail.com  
+
+Thanks for visiting my GitHub! ⭐  
+Feel free to explore my projects and connect!
