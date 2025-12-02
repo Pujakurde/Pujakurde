@@ -1,21 +1,21 @@
-# 👋 Hi, I'm Puja Kurde  
-🎓 Final-Year B.Tech Student | 📊 Data Science | 🐍 Python Developer | 🤖 ML & CV Enthusiast  
+# Puja Kurde  
+ Final-Year B.Tech Student | Data Science | Python Developer | ML & CV Enthusiast  
 
 Welcome to my GitHub! I love building intelligent systems, data-driven applications, and clean Python-based tools.  
 I enjoy solving real-world problems using ML, Data Analytics, Computer Vision, and automation.
 
 ---
 
-## 🚀 About Me  
-- 🎓 Final-year B.Tech CSE (Data Science) – Shivaji University  
-- 💡 Passionate about Data Science, Machine Learning, and Python Development  
-- 🧠 Interested in Computer Vision, Deep Learning, and Analytical Dashboards  
-- 👩‍💻 Currently working as **GUI Creator Intern at A2C Automotive Pvt. Ltd.**  
-- 🔍 Looking for full-time roles: **Data Analyst | Data Scientist | Python Developer**
+## About Me  
+- Final-year B.Tech CSE (Data Science) – Shivaji University  
+- Passionate about Data Science, Machine Learning, and Python Development  
+- Interested in Computer Vision, Deep Learning, and Analytical Dashboards  
+- Currently working as **GUI Creator Intern at A2C Automotive Pvt. Ltd.**  
+- Looking for full-time roles: **Data Analyst | Data Scientist | Python Developer**
 
 ---
 
-## 🛠️ Technologies & Skills  
+## Technologies & Skills  
 
 ### **Programming**
 - Python, SQL
@@ -48,9 +48,9 @@ I enjoy solving real-world problems using ML, Data Analytics, Computer Vision, a
 
 ---
 
-## 📂 Featured Projects  
+## Featured Projects  
 
-### 🔹 **Face Authentication System (Ongoing)**
+### **Face Authentication System (Ongoing)**
 A real-time face authentication system using **Haar Cascade**, **Deep Learning**, and **OpenCV**.  
 - Custom dataset collection  
 - Real-time prediction system  
@@ -59,7 +59,7 @@ A real-time face authentication system using **Haar Cascade**, **Deep Learning**
 
 ---
 
-### 🔹 **Sign-to-Text Detection System**
+### **Sign-to-Text Detection System**
 Deep-learning model converting real-time hand signs into text.  
 - CNN-based gesture recognition  
 - Live video classification  
@@ -68,7 +68,7 @@ Deep-learning model converting real-time hand signs into text.
 
 ---
 
-### 🔹 **Student Depression Analysis**
+### **Student Depression Analysis**
 Machine learning model predicting depression levels among students with **83.7% accuracy**.  
 - EDA, preprocessing  
 - Feature selection  
@@ -77,7 +77,7 @@ Machine learning model predicting depression levels among students with **83.7% 
 
 ---
 
-## 💼 Experience  
+## Experience  
 
 ### **A2C Automotive Pvt. Ltd. — GUI Creator Intern**  
 *Aug 2025 – Present*  
@@ -97,7 +97,7 @@ Machine learning model predicting depression levels among students with **83.7% 
 
 ---
 
-## 📜 Certifications  
+## Certifications  
 - Python for Data Science – NPTEL  
 - Deloitte Data Analytics Job Simulation – Forage  
 - Power BI Workshop – Office Master  
@@ -105,7 +105,7 @@ Machine learning model predicting depression levels among students with **83.7% 
 
 ---
 
-## 🌱 Personal Statement  
+## Personal Statement  
 A motivated and detail-oriented learner passionate about **data, analytics, automation, and AI-driven solutions**.  
 I aim to build tools and models that make real-world tasks easier, faster, and smarter.
 
