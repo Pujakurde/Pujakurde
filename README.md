@@ -111,10 +111,10 @@ I aim to build tools and models that make real-world tasks easier, faster, and s
 
 ---
 
-## 📫 Connect With Me  
-🔗 **LinkedIn:** https://linkedin.com/in/puja-kurde  
-🐙 **GitHub:** https://github.com/Pujakurde  
-📧 **Email:** pujakurde@gmail.com  
+## Connect With Me  
+**LinkedIn:** https://linkedin.com/in/puja-kurde  
+**GitHub:** https://github.com/Pujakurde  
+**Email:** pujakurde@gmail.com  
 
-Thanks for visiting my GitHub! ⭐  
+Thanks for visiting my GitHub! 
 Feel free to explore my projects and connect!
