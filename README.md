@@ -10,7 +10,7 @@ I enjoy solving real-world problems using ML, Data Analytics, Computer Vision, a
 - Final-year B.Tech CSE (Data Science) – Shivaji University  
 - Passionate about Data Science, Machine Learning, and Python Development  
 - Interested in Computer Vision, Deep Learning, and Analytical Dashboards  
-- Currently working as **GUI Creator Intern at A2C Automotive Pvt. Ltd.**  
+- Currently working as **Intern at A2C Automotive Pvt. Ltd.**  
 - Looking for full-time roles: **Data Analyst | Data Scientist | Python Developer**
 
 ---
@@ -79,7 +79,7 @@ Machine learning model predicting depression levels among students with **83.7% 
 
 ## Experience  
 
-### **A2C Automotive Pvt. Ltd. — GUI Creator Intern**  
+### **A2C Automotive Pvt. Ltd. — Intern**  
 *Aug 2025 – Present*  
 - Built Tkinter-based GUI applications  
 - Worked on ML and Computer Vision modules  
