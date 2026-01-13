@@ -79,12 +79,6 @@ Machine learning model predicting depression levels among students with **83.7% 
 
 ## Experience  
 
-### **A2C Automotive Pvt. Ltd. — Intern**  
-*Aug 2025 – Present*  
-- Built Tkinter-based GUI applications  
-- Worked on ML and Computer Vision modules  
-- Automated workflows using Python
-
 ### **Anvistar ITS Pvt. Ltd. — Python Developer Intern**  
 *Jul 2025 – Aug 2025*  
 - Python automation scripting  
