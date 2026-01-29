@@ -49,7 +49,6 @@ End-to-end data analytics project analyzing student mental health trends using P
 GitHub Repository:  
 https://github.com/Pujakurde/Student-Mental-Health-Depression-Analysis
 
----
 
 ### 2. Business-Sales-Analysis
 Business intelligence project focused on analyzing sales performance across regions, categories, and time periods. Implemented data cleaning, trend analysis, and interactive Power BI dashboards to support business decision-making.
@@ -57,7 +56,7 @@ GitHub Repository:
 
 https://github.com/Pujakurde/business-sales-analysis
 
----
+
 ### 3. Face-Authentication-System
 **Technologies:** Python, OpenCV, Deep Learning  
 
@@ -67,7 +66,8 @@ Repository:
 
 https://github.com/Pujakurde/Face-Authentication-System
 
---
+---
+
 ## Experience
 
 **Intern – A2C Automotive Pvt. Ltd.**  
