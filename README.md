@@ -58,6 +58,13 @@ GitHub Repository:
 https://github.com/Pujakurde/business-sales-analysis
 
 ---
+### 3. Face-Authentication-System
+**Technologies:** Python, OpenCV, Deep Learning  
+
+A real-time face authentication system developed using computer vision and deep learning techniques. The project focuses on face detection, dataset preprocessing, model training, and real-time authentication workflows.
+
+Repository:  
+https://github.com/Pujakurde/Face-Authentication-System
 
 ## Experience
 
