@@ -43,7 +43,7 @@ Final-year B.Tech Data Science student with a strong interest in data analytics,
 
 ## Featured Projects
 
-### Student-Depression-Analysis
+### 1. Student-Depression-Analysis
 End-to-end data analytics project analyzing student mental health trends using Python, SQL, and Power BI. Built an interactive dashboard to identify high-risk student groups based on academic pressure, sleep duration, and workload.
 
 GitHub Repository:  
@@ -51,7 +51,7 @@ https://github.com/Pujakurde/Student-Depression-Analysis
 
 ---
 
-### Business-Sales-Analysis
+### 2. Business-Sales-Analysis
 Business intelligence project focused on analyzing sales performance across regions, categories, and time periods. Implemented data cleaning, trend analysis, and interactive Power BI dashboards to support business decision-making.
 
 GitHub Repository:  
