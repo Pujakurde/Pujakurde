@@ -51,6 +51,7 @@ GitHub Repository:  https://github.com/Pujakurde/Student-Mental-Health-Depressio
 
 ### 2. Business-Sales-Analysis
 Business intelligence project focused on analyzing sales performance across regions, categories, and time periods. Implemented data cleaning, trend analysis, and interactive Power BI dashboards to support business decision-making.
+
 GitHub Repository:  https://github.com/Pujakurde/business-sales-analysis
 
 
