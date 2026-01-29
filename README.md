@@ -47,8 +47,7 @@ Final-year B.Tech Data Science student with a strong interest in data analytics,
 End-to-end data analytics project analyzing student mental health trends using Python, SQL, and Power BI. Built an interactive dashboard to identify high-risk student groups based on academic pressure, sleep duration, and workload.
 
 GitHub Repository:  
-https://github.com/Pujakurde/Student-Depression-Analysis
-
+https://github.com/Pujakurde/Student-Mental-Health-Depression-Analysis
 ---
 
 ### 2. Business-Sales-Analysis
