@@ -1,114 +1,102 @@
-# Puja Kurde  
- Final-Year B.Tech Student | Data Science | Python Developer | ML & CV Enthusiast  
+Puja Kurde
 
-Welcome to my GitHub! I love building intelligent systems, data-driven applications, and clean Python-based tools.  
-I enjoy solving real-world problems using ML, Data Analytics, Computer Vision, and automation.
+Final-year B.Tech Data Science student with a strong interest in data analytics, business intelligence, and data-driven decision making.
+I enjoy working with data end-to-end — from cleaning and analysis to building interactive dashboards that communicate insights clearly.
 
----
+About Me
 
-## About Me  
-- Final-year B.Tech CSE (Data Science) – Shivaji University  
-- Passionate about Data Science, Machine Learning, and Python Development  
-- Interested in Computer Vision, Deep Learning, and Analytical Dashboards  
-- Currently working as **Intern at A2C Automotive Pvt. Ltd.**  
-- Looking for full-time roles: **Data Analyst | Data Scientist | Python Developer**
+Final-year B.Tech student specializing in Data Science
 
----
+Interested in Data Analyst, Business Analyst, and BI Analyst roles
 
-## Technologies & Skills  
+Experience with Python, SQL, and Power BI for real-world analytics projects
 
-### **Programming**
-- Python, SQL
+Focused on building production-style dashboards and structured analytical workflows
 
-### **Data Analysis & Visualization**
-- NumPy, Pandas, Matplotlib  
-- Power BI, Tableau  
-- Excel (Pivot Tables, VLOOKUP, Dashboards)
+Technical Skills
 
-### **Machine Learning**
-- Feature Engineering  
-- Data Preprocessing  
-- Model Evaluation  
-- Classification & Regression
+Programming & Querying
 
-### **Computer Vision**
-- OpenCV  
-- Image Processing  
-- CNN Models (for Face Recognition & Sign Detection)
+Python
 
-### **GUI Development**
-- Tkinter (Custom Standalone Applications)
+SQL
 
-### **Databases**
-- MySQL, MySQL Workbench  
+Data Analysis & Visualization
 
-### **Tools**
-- Jupyter Notebook, VS Code, Excel  
-- Git & GitHub
+Pandas, NumPy
 
----
+Matplotlib, Seaborn
 
-## Featured Projects  
+Power BI (KPIs, slicers, DAX, dashboards)
 
-### **Face Authentication System (Ongoing)**
-A real-time face authentication system using **Haar Cascade**, **Deep Learning**, and **OpenCV**.  
-- Custom dataset collection  
-- Real-time prediction system  
-- Secure authentication pipeline  
-**Tech:** Python, OpenCV, CNN, NumPy, Pandas  
+Microsoft Excel
 
----
+Databases
 
-### **Sign-to-Text Detection System**
-Deep-learning model converting real-time hand signs into text.  
-- CNN-based gesture recognition  
-- Live video classification  
-- GUI text output  
-**Tech:** Python, TensorFlow/Keras, OpenCV  
+MySQL
 
----
+Data Preparation
 
-### **Student Depression Analysis**
-Machine learning model predicting depression levels among students with **83.7% accuracy**.  
-- EDA, preprocessing  
-- Feature selection  
-- Random Forest, SVM  
-**Tech:** Python, Pandas, NumPy, Matplotlib  
+Data cleaning and validation
 
----
+Exploratory Data Analysis (EDA)
 
-## Experience  
+Feature engineering
 
-### **Anvistar ITS Pvt. Ltd. — Python Developer Intern**  
-*Jul 2025 – Aug 2025*  
-- Python automation scripting  
-- Debugging & performance improvements  
+Power Query (M)
 
-### **Deloitte (Forage) — Data Analyst Virtual Intern**  
-*Jul 2025*  
-- Data cleaning & visualization  
-- Dashboard reporting with Tableau  
+Tools & Platforms
 
----
+Jupyter Notebook
 
-## Certifications  
-- Python for Data Science – NPTEL  
-- Deloitte Data Analytics Job Simulation – Forage  
-- Power BI Workshop – Office Master  
-- Machine Learning – LinkedIn Learning  
+VS Code
 
----
+Git and GitHub
 
-## Personal Statement  
-A motivated and detail-oriented learner passionate about **data, analytics, automation, and AI-driven solutions**.  
-I aim to build tools and models that make real-world tasks easier, faster, and smarter.
+Featured Projects
+Student-Depression-Analysis
 
----
+End-to-end data analytics project analyzing student mental health trends using Python, SQL, and Power BI.
+Built an interactive dashboard to identify high-risk student groups based on academic pressure, sleep duration, and workload.
 
-## Connect With Me  
-**LinkedIn:** https://linkedin.com/in/puja-kurde  
-**GitHub:** https://github.com/Pujakurde  
-**Email:** pujakurde@gmail.com  
+Repository:
+https://github.com/Pujakurde/Student-Depression-Analysis
 
-Thanks for visiting my GitHub! 
-Feel free to explore my projects and connect!
+Business-Sales-Analysis
+
+Business intelligence project focused on analyzing sales performance across regions, categories, and time periods.
+Implemented data cleaning, trend analysis, and interactive Power BI dashboards to support business decision-making.
+
+Repository:
+https://github.com/Pujakurde/business-sales-analysis
+
+Experience
+
+Intern – A2C Automotive Pvt. Ltd.
+Worked on machine learning-based applications with a focus on Python GUI development, data preprocessing, and model evaluation.
+
+Python Developer Intern – Anvistar ITS Pvt. Ltd.
+Contributed to Python-based automation tasks, debugging, and performance optimization.
+
+Virtual Internship – Data Analyst (Deloitte | Forage)
+Completed simulated data analytics tasks involving data cleaning, visualization, and client-style reporting.
+
+What I’m Currently Working On
+
+Enhancing Power BI dashboards with advanced interactivity
+
+Strengthening SQL for analytical querying
+
+Expanding my data analytics portfolio with real-world datasets
+
+Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/puja-kurde
+
+GitHub: https://github.com/Pujakurde
+
+Email: pujakurde@gmail.com
+
+Career Goal
+
+To start my career as a Data Analyst / BI Analyst, where I can apply analytical skills to solve business problems and support data-driven decisions.
