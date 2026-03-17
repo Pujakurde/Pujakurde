@@ -1,98 +1,153 @@
-# Puja Kurde
+# Hi, I'm Puja Kurde 👋
 
-Final-year B.Tech Data Science student with a strong interest in data analytics, business intelligence, and data-driven decision making. I enjoy working with data end-to-end — from cleaning and analysis to building interactive dashboards that communicate insights clearly.
-
----
-
-## About Me
-
-- Final-year B.Tech student specializing in Data Science  
-- Interested in Data Analyst, Business Analyst, and BI Analyst roles  
-- Experience with Python, SQL, and Power BI for real-world analytics projects  
-- Focused on building production-style dashboards and structured analytical workflows  
+📊 Aspiring Data Analyst | BI Analyst
+🎓 B.Tech Data Science Student (Final Year)
+📍 Pune, Maharashtra, India 🇮🇳
 
 ---
 
-## Technical Skills
+## 👩‍💻 About Me
 
-### Programming & Querying
-- Python  
-- SQL  
+```python
+puja_kurde = {
+    "role": "Data Analyst / BI Analyst",
+    "education": "B.Tech in Data Science (2022–2026)",
+    "skills": ["Python", "SQL", "Power BI", "Excel"],
+    "focus": ["Data Analysis", "Dashboarding", "Business Insights"],
+    "tools": ["Pandas", "NumPy", "Power BI", "MySQL"],
+    "status": "Actively seeking Data Analyst opportunities 🚀"
+}
+```
 
-### Data Analysis & Visualization
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Power BI (KPIs, slicers, DAX, dashboards)  
-- Microsoft Excel  
-
-### Databases
-- MySQL  
-
-### Data Preparation
-- Data cleaning and validation  
-- Exploratory Data Analysis (EDA)  
-- Feature engineering  
-- Power Query (M)  
-
-### Tools & Platforms
-- Jupyter Notebook  
-- VS Code  
-- Git and GitHub  
+📊 Passionate about turning raw data into meaningful insights
+📈 Strong interest in Business Intelligence and Data Visualization
+🧠 Skilled in data cleaning, analysis, and dashboard building
+🎯 Focused on solving real-world business problems using data
 
 ---
 
-## Featured Projects
+## 🛠️ Tech Stack
 
-### 1. Student-Depression-Analysis
-End-to-end data analytics project analyzing student mental health trends using Python, SQL, and Power BI. Built an interactive dashboard to identify high-risk student groups based on academic pressure, sleep duration, and workload.
+### 📌 Programming & Querying
 
-GitHub Repository:  https://github.com/Pujakurde/Student-Mental-Health-Depression-Analysis
+* Python
+* SQL
 
+### 📊 Data Analysis & Visualization
 
-### 2. Business-Sales-Analysis
-Business intelligence project focused on analyzing sales performance across regions, categories, and time periods. Implemented data cleaning, trend analysis, and interactive Power BI dashboards to support business decision-making.
+* Pandas, NumPy
+* Matplotlib, Seaborn
+* Power BI (DAX, KPIs, Dashboards)
+* Microsoft Excel
 
-GitHub Repository:  https://github.com/Pujakurde/business-sales-analysis
+### 🗄️ Databases
 
+* MySQL
 
-### 3. Face-Authentication-System
-**Technologies:** Python, OpenCV, Deep Learning  
+### ⚙️ Tools
 
-A real-time face authentication system developed using computer vision and deep learning techniques. The project focuses on face detection, dataset preprocessing, model training, and real-time authentication workflows.
-
-Github Repository: https://github.com/Pujakurde/Face-Authentication-System
-
----
-
-## Experience
-
-**Intern – A2C Automotive Pvt. Ltd.**  
-Worked on machine learning-based applications with a focus on Python GUI development, data preprocessing, and model evaluation.
-
-**Python Developer Intern – Anvistar ITS Pvt. Ltd.**  
-Contributed to Python-based automation tasks, debugging, and performance optimization.
-
-**Virtual Internship – Data Analyst (Deloitte | Forage)**  
-Completed simulated data analytics tasks involving data cleaning, visualization, and client-style reporting.
+* Jupyter Notebook
+* VS Code
+* Git & GitHub
 
 ---
 
-## What I’m Currently Working On
-
-- Enhancing Power BI dashboards with advanced interactivity  
-- Strengthening SQL for analytical querying  
-- Expanding my data analytics portfolio with real-world datasets  
+## 🚀 Featured Data Analyst Projects
 
 ---
 
-## Connect With Me
+### 📊 Retail Sales Performance Dashboard
 
-- LinkedIn: https://www.linkedin.com/in/puja-kurde  
-- GitHub: https://github.com/Pujakurde  
-- Email: pujakurde@gmail.com  
+📌 Built an interactive Power BI dashboard to analyze sales performance across regions and categories
+
+✨ Key Highlights:
+
+* 📈 Sales trend analysis (monthly & yearly)
+* 🌍 Regional performance insights
+* 🛒 Product/category-level analysis
+* 🎯 KPI tracking (Sales, Profit, Orders)
+
+🔗 https://github.com/Pujakurde/business-sales-analysis
 
 ---
 
-## Career Goal
+### 🐦 Twitter Sentiment Analysis (NLP)
 
-To start my career as a Data Analyst or BI Analyst, where I can apply analytical skills to solve business problems and support data-driven decisions.
+📌 Analyzed tweet data to classify sentiment using Natural Language Processing
+
+✨ Key Highlights:
+
+* 🧹 Data cleaning & preprocessing
+* 😊 Sentiment classification (Positive / Negative / Neutral)
+* ☁️ WordCloud visualization
+* 📊 Sentiment distribution analysis
+
+🔗 https://github.com/Pujakurde/twitter-sentiment-analysis
+
+---
+
+### 🧠 Student Depression Analysis Dashboard
+
+📌 Data analytics project identifying mental health trends among students
+
+✨ Key Highlights:
+
+* 📊 Exploratory Data Analysis using Python & SQL
+* 📈 Power BI dashboard with KPIs & slicers
+* 🎯 Identification of high-risk student groups
+
+🔗 https://github.com/Pujakurde/Student-Mental-Health-Depression-Analysis
+
+---
+
+## 💼 Experience
+
+**Intern – A2C Automotive Pvt. Ltd.**
+
+* Worked on ML-based applications and data workflows
+* Performed data preprocessing and model evaluation
+
+**Python Developer Intern – Anvistar ITS Pvt. Ltd.**
+
+* Built and optimized Python scripts
+* Improved code performance and reliability
+
+**Data Analyst Virtual Internship – Deloitte (Forage)**
+
+* Cleaned datasets and built dashboards
+* Delivered business insights through visualizations
+
+---
+
+## 📜 Certifications
+
+* Deloitte Data Analytics Job Simulation (Forage)
+* Power BI Workshop – Office Master
+* Machine Learning – LinkedIn Learning
+* Python for Data Science – NPTEL
+
+---
+
+## 📈 Current Focus
+
+```python
+goals_2026 = [
+    "Master SQL for Data Analysis",
+    "Build 5+ real-world analytics projects",
+    "Improve dashboard storytelling skills",
+    "Crack Data Analyst placement role",
+    "Strengthen business problem solving"
+]
+```
+
+---
+
+## 🤝 Let's Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/puja-kurde
+💻 GitHub: https://github.com/Pujakurde
+📧 Email: [pujakurde@gmail.com](mailto:pujakurde@gmail.com)
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories!
