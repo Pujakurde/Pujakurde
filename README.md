@@ -2,9 +2,7 @@
 
 📊 Aspiring Data Analyst | BI Analyst
 
-
 🎓 B.Tech Data Science Student (Final Year)
-
 
 📍 Pune, Maharashtra, India 🇮🇳
 
@@ -25,12 +23,9 @@ puja_kurde = {
 
 📊 Passionate about turning raw data into meaningful insights
 
-
 📈 Strong interest in Business Intelligence and Data Visualization
 
-
 🧠 Skilled in data cleaning, analysis, and dashboard building
-
 
 🎯 Focused on solving real-world business problems using data
 
@@ -79,7 +74,7 @@ puja_kurde = {
 * 🛒 Product/category-level analysis
 * 🎯 KPI tracking (Sales, Profit, Orders)
 
-🔗 https://github.com/Pujakurde/business-sales-analysis
+🔗 (https://github.com/Pujakurde/Retail_Sales_Performance_Analysis)
 
 ---
 
