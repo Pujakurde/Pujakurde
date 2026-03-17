@@ -74,7 +74,7 @@ puja_kurde = {
 * 🛒 Product/category-level analysis
 * 🎯 KPI tracking (Sales, Profit, Orders)
 
-🔗 (https://github.com/Pujakurde/Retail_Sales_Performance_Analysis)
+🔗 https://github.com/Pujakurde/Retail_Sales_Performance_Analysis
 
 ---
 
