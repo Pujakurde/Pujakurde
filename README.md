@@ -1,7 +1,11 @@
 # Hi, I'm Puja Kurde 👋
 
 📊 Aspiring Data Analyst | BI Analyst
+
+
 🎓 B.Tech Data Science Student (Final Year)
+
+
 📍 Pune, Maharashtra, India 🇮🇳
 
 ---
@@ -20,9 +24,17 @@ puja_kurde = {
 ```
 
 📊 Passionate about turning raw data into meaningful insights
+
+
 📈 Strong interest in Business Intelligence and Data Visualization
+
+
 🧠 Skilled in data cleaning, analysis, and dashboard building
+
+
 🎯 Focused on solving real-world business problems using data
+
+
 
 ---
 
@@ -126,19 +138,6 @@ puja_kurde = {
 * Machine Learning – LinkedIn Learning
 * Python for Data Science – NPTEL
 
----
-
-## 📈 Current Focus
-
-```python
-goals_2026 = [
-    "Master SQL for Data Analysis",
-    "Build 5+ real-world analytics projects",
-    "Improve dashboard storytelling skills",
-    "Crack Data Analyst placement role",
-    "Strengthen business problem solving"
-]
-```
 
 ---
 
