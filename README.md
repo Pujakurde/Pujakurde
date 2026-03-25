@@ -17,13 +17,21 @@ puja_kurde = {
 }
 ```
 
+
 📊 Turning raw data into meaningful insights
+
+
 📈 Focused on Business Intelligence and data visualization
+
+
 🧠 Skilled in data cleaning, analysis, and dashboard development
+
+
 🎯 Interested in solving real-world problems using data
 
 ---
 🛠️ Tech Stack
+
 
 Programming & Querying: Python, SQL
 Data Analysis: Pandas, NumPy, EDA, Data Cleaning
@@ -31,8 +39,10 @@ Visualization: Power BI, Matplotlib, Seaborn, Excel
 Database: MySQL
 Tools: Jupyter Notebook, VS Code, Git, GitHub
 
+
 ---
 🚀 Top Projects
+
 
 🔐 Face Authentication System
 Developed a real-time face authentication system using computer vision
@@ -42,6 +52,7 @@ Focused on improving accuracy and performance
 Tools: Python, OpenCV, Face Recognition
 
 🔗 https://github.com/Pujakurde/face-authentication
+
 
 🐦 Twitter Sentiment Analysis (NLP)
 Performed sentiment classification on tweet data
@@ -73,10 +84,12 @@ Implemented hand tracking and gesture recognition
 Enabled real-time prediction using deep learning models
 Tools: Python, TensorFlow, OpenCV, MediaPipe
 
-🔗 (Add your GitHub link)
+🔗 https://github.com/Pujakurde/ISL-AI-Translator
 
 ---
+
 💼 Experience
+
 
 Intern – A2C Automotive Pvt. Ltd.
 
@@ -95,14 +108,19 @@ Generated insights through visualization
 
 ---
 
+
 📜 Certifications
+
+
 Deloitte Data Analytics Job Simulation - Forage
 Power BI Workshop – Office Master
 Machine Learning – LinkedIn Learning
 Python for Data Science – NPTEL
 
 ---
+
 🤝 Connect With Me
+
 
 💼 LinkedIn: https://www.linkedin.com/in/puja-kurde
 
